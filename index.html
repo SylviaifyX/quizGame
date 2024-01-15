@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Quiz game</title>
+</head>
+<body>
+    <section class="main-container">
+        <header class="header">
+            <div class="title">
+                <p>Awesome Quiz Application</p>
+            </div>
+            <div class="timer">
+                <div class="time_text"><p>time left</p></div>
+                <div class="time_sec">
+                    <p>10</p>
+                </div>
+            </div>
+
+        </header>
+        <div class="quizContainer" id="quizCon">    
+          <div class="quiz">
+            <h1 id="question" >Choose the correct answer!</h1>
+            <!-- <h2 id="question ">question here</h2> -->
+            <div id="answer-button">
+              <button class="ans">Answer A</button>
+              <button class="ans">Answer B</button>
+              <button class="ans">Answer C</button>
+            </div>
+            <div class="quiz-group">
+                <div class="groupBtn">
+                    <button id="next" class="nxt">Next</button>
+                </div>
+            </div>
+           <canvas id="confetti"></canvas>
+          </div>
+        </div>
+      </section>
+
+    <script src="index.js"></script>
+</body>
+</html>
