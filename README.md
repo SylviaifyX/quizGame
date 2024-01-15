@@ -14,5 +14,5 @@
 
 * Problem Solving: Ability to anticipate and address challenges related to quiz development.
 
-  ##Skill: Html, Css & Javascript
+## Skill: Html, Css & Javascript
 
