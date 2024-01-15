@@ -12,5 +12,7 @@
    
 * User Experience: Consideration for user interface design, responsiveness, and overall user experience. 
 
-*Problem Solving: Ability to anticipate and address challenges related to quiz development.
+* Problem Solving: Ability to anticipate and address challenges related to quiz development.
+
+  ##Skill: Html, Css & Javascript
 
